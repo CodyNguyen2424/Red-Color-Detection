@@ -1,7 +1,3 @@
-Here’s a README that you can use for your GitHub repository:
-
----
-
 # Red Object Detection using OpenCV
 
 This project detects red-colored objects in a real-time video feed using a webcam. It utilizes OpenCV to capture video frames, convert them to HSV color space, and identify objects within a specified red color range. Detected objects are highlighted with rectangles in the live video feed.
